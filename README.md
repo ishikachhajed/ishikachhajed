@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Spring Boot • MERN • TypeScript | AI & GenAI Enthusiast | 550+ LeetCode Problems</h3>
 
 👨‍💻 All of my projects are available at:
-https://portfolio-4660dra1o-ishika-chhajeds-projects.vercel.app/
+[https://portfolio-4660dra1o-ishika-chhajeds-projects.vercel.app/](https://portfolio-theta-silk-nbb7k0b7ys.vercel.app/)
 
 - 📫 How to reach me **ishikachhajed24@gmail.com**
 
